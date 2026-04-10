@@ -1,0 +1,21 @@
+EMPLOYEE RECORDS - CONFIDENTIAL
+================================
+
+Employee ID: EMP-2024-0089
+Name: Ankit Verma
+Email: ankit.verma@techcorp.in
+Phone: +91 9876543210
+Aadhaar: 234567890123
+PAN: ABCDE1234F
+Date of Birth: 12/05/1990
+Bank Account: 50100123456789
+Salary: ₹85,000/month
+
+--- IT Config ---
+Server IP: 192.168.10.55
+DB Password: password=admin@123
+API Token: sk-prod8XKzLm9QrP2vN5wJ3hT7yU1aE6cF4
+
+--- Finance ---
+Credit Card: 4111111111111111
+SSN (US client): 987-65-4321
